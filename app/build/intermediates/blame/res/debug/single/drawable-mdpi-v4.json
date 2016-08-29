@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

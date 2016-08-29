@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+    
+  <RelativeLayout
+      android:id="@+id/dd"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DIMEN_113PX"
+        android:background="@android:color/white" >
+    <ImageButton 
+        android:id="@+id/return18"
+      android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="服务说明"
+        android:textColor="@color/zi_yi"
+        android:textSize="20sp"
+        android:layout_centerInParent="true"
+        />
+    
+</RelativeLayout>
+    <RelativeLayout 
+      android:layout_below="@id/dd"
+        android:id="@+id/ls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView 
+            android:id="@+id/tex1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/server1"
+            android:textColor="@color/zi_yi"
+            android:layout_marginTop="@dimen/DIMEN_40PX"
+            android:layout_marginLeft="@dimen/DIMEN_30PX"
+            android:layout_marginRight="@dimen/DIMEN_20PX"
+            android:textSize="17sp"/>
+        
+        <TextView 
+            android:layout_below="@id/tex1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/DIMEN_40PX"
+            android:layout_marginLeft="@dimen/DIMEN_30PX"
+            android:textColor="@color/main_color"
+            android:text="@string/server2"/>
+            
+    </RelativeLayout>
+    <LinearLayout 
+        android:layout_marginTop="10dp"
+         android:layout_below="@id/ls"
+         android:layout_width="match_parent"
+         android:layout_marginBottom="20dp"
+         android:layout_height="280dp">
+     <com.yunlinker.xiyi.utils.DragImageView
+         android:id="@+id/scope"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentLeft="true"
+         android:background="@color/white"
+         android:scaleType="fitXY" />
+</LinearLayout>
+</RelativeLayout>

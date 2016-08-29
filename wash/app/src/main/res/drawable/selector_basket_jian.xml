@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 洗衣蓝数量减 -->
+    <item   android:drawable="@drawable/baske_jian" android:state_focused="false"/>
+     <item   android:drawable="@drawable/baske_clik_jian_9" android:state_focused="true"/>
+</selector>

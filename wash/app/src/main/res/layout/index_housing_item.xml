@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingTop="@dimen/DIMEN_23PX"
+    android:paddingBottom="@dimen/DIMEN_23PX"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/DIMEN_203PX"
+    android:background="@color/white"
+    android:orientation="vertical" >
+    <!-- 索引小区界面的地址 -->
+    <TextView 
+        android:id="@+id/nams_housing"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="@dimen/DIMEN_18PX"
+        android:text="卓锦城"
+        android:textSize="19sp"
+        android:gravity="center_vertical"
+        android:textColor="@color/zi_er"/>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+         android:layout_weight="1"
+        android:orientation="horizontal"
+    >
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dizhi"
+            android:layout_marginLeft="@dimen/DIMEN_27PX"/>
+        <TextView  
+            android:id="@+id/detail" 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="锦江区海棠路608号"
+            android:layout_marginLeft="@dimen/DIMEN_7PX"
+            android:textSize="10sp"
+            android:textColor="@color/zi_er"
+            />
+    </LinearLayout>
+</LinearLayout>

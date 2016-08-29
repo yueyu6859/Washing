@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/DIMEN_70PX"
+        android:id="@+id/serve_housing"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/DIMEN_90PX"
+        android:textColor="@color/zi_er"/>
+    <View android:layout_width="match_parent"
+        android:layout_height="@dimen/DIMEN_2PX"
+        android:background="@color/hui"/>
+</LinearLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidLoad\AndroidSDK\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c77e5fd51e57eb1f95421f90f213f17de054db44.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\fastjson-1.1.36.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="63a6becf28f9a3facdc54a350c93fb1b85893ac5">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\fastjson-1.1.36_f4e5e2d2f2d6034e79f881770faa6a8dea5e03fd.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\ShareSDK-QQ-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e6c6b568ccacd915fbf96b9b73697fecb778d36e">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.0_3b2f3ab994cc3e9688ddbbbe92c5f59b8faf1317.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\ShareSDK-Wechat-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="af48a61a1270951dc870e1579a48a415ff10c1cc">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.0_03e60febaf1f9e6e40657e9ecdd71d4218da09ce.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\ShareSDK-Wechat-Core-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="026345fd0ea8105f21cd9688849f1301232eecf9">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.0_1634b11ce799f470b364cb9f35905ce8afed46c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\gson-2.2.2_ebab29b4045f2a3632da7471eaec5b8deae7f782.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\alipaySDK-20150602.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c880c895cf5ee3f7d055e566888cbf72bb3108fd">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\alipaySDK-20150602_9038395d861b27d0ceab9413d7f8ad78e5313850.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\ShareSDK-Wechat-Moments-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="58cc538afcaea68397481e5447836e62797551cc">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.0_f3b02f5c95d3754cdcb889a77a0f684c9fad42bc.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b2cba35ceab382729de67845f613556d38a32133">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\MobTools_8f7fcffbf4eb4a59c3cc23be4cb4343d39fda512.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_0fc5719eb318ca16170c94cc6e725e4e53c35c87.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\ShareSDK-QZone-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="220b0f41eb09db85c24113a0f8d69cf1011b0e07">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.0_21e9d964858f63fa0cf9829d872cab914e0772f8.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\badgeview.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6301e7214e651730acacf9815ac3a56701231015">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\badgeview_cfae37022be8894348d2b3cf42789d8a3b846365.jar" />
+    </item>
+    <item
+        jar="F:\MyWorkspace\washing\app\libs\ShareSDK-Core-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ce77708798f39a79b83785dd24dd551b4680e469">
+        <dex dex="F:\MyWorkspace\washing\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.0_72349f7e6c851197e6d43c060e79e028c5e32485.jar" />
+    </item>
+
+</items>

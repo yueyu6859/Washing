@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+       android:layout_height="@dimen/DIMEN_98PX"
+        android:background="@android:color/white" >
+    <ImageButton 
+        android:id="@+id/return4"
+      android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="充值"
+        android:textColor="@color/zi_yi"
+        android:textSize="20sp"
+        android:layout_centerInParent="true"
+        />
+    
+   
+</RelativeLayout>
+   
+   <LinearLayout 
+       android:layout_marginTop="@dimen/DIMEN_23PX"
+       android:layout_width="match_parent"
+       style="@style/location_height"
+       android:background="@android:color/white"
+       android:orientation="horizontal">
+       <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:gravity="center_vertical"
+           android:layout_marginLeft="@dimen/DIMEN_45PX"
+           android:textColor="@color/zi_er"
+           android:textSize="17sp"
+           android:text="@string/sum"/>
+       <EditText 
+           android:id="@+id/moeny5"
+           android:paddingLeft="@dimen/DIMEN_7PX"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:textSize="17sp"
+           android:inputType="number"
+           android:hint="@string/recharge_sum"
+           android:background="@null"/>
+       
+   </LinearLayout>
+   <LinearLayout 
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_marginTop="@dimen/DIMEN_68PX">
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_weight="1"
+           android:layout_marginLeft="@dimen/DIMEN_20PX"
+           android:background="@drawable/xiyibi1" >
+
+           <TextView
+               android:id="@+id/text1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="@dimen/DIMEN_12PX"
+               android:layout_marginTop="@dimen/DIMEN_12PX"
+               android:text="@string/xiyibi_text1"
+               android:textColor="@android:color/white" />
+
+           <TextView
+               android:id="@+id/textView1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_below="@id/text1"
+               android:layout_marginLeft="@dimen/DIMEN_12PX"
+               android:text="@string/xiyibi_text2"
+               android:textColor="@android:color/white"
+               android:textSize="25sp" />
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignBaseline="@+id/textView1"
+               android:layout_alignBottom="@+id/textView1"
+               android:layout_toRightOf="@+id/textView1"
+               android:text="@string/xiyibi_text3"
+               android:textColor="@android:color/white" />
+
+       </RelativeLayout>
+       
+       
+       <RelativeLayout
+           android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/DIMEN_20PX"
+            android:layout_height="match_parent"
+           android:layout_weight="1"
+           android:background="@drawable/xiyibi2" >
+
+           <TextView
+               android:id="@+id/text2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="@dimen/DIMEN_12PX"
+               android:layout_marginTop="@dimen/DIMEN_12PX"
+               android:text="@string/xiyibi_text4"
+               android:textColor="@android:color/white" />
+
+           <TextView
+               android:id="@+id/textView2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_below="@id/text2"
+               android:layout_marginLeft="@dimen/DIMEN_12PX"
+               android:text="@string/xiyibi_text5"
+               android:textColor="@android:color/white"
+               android:textSize="25sp" />
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignBaseline="@id/textView2"
+               android:layout_marginLeft="@dimen/DIMEN_176PX"
+               android:text="@string/xiyibi_text3"
+               android:textColor="@android:color/white" />
+
+       </RelativeLayout>
+       
+       
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/DIMEN_10PX"
+            android:layout_marginRight="@dimen/DIMEN_10PX"
+           android:layout_weight="1"
+           android:background="@drawable/xiyibi3" >
+
+           <TextView
+               android:id="@+id/text3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="@dimen/DIMEN_12PX"
+               android:layout_marginTop="@dimen/DIMEN_12PX"
+               android:text="@string/xiyibi_text6"
+               android:textColor="@android:color/white" />
+
+           <TextView
+               android:id="@+id/textView3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_below="@id/text3"
+               android:layout_marginLeft="@dimen/DIMEN_12PX"
+               android:text="@string/xiyibi_text7"
+               android:textColor="@android:color/white"
+               android:textSize="25sp" />
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignBaseline="@id/textView3"
+               android:layout_marginLeft="@dimen/DIMEN_176PX"
+               android:text="@string/xiyibi_text3"
+               android:textColor="@android:color/white" />
+
+       </RelativeLayout>
+       
+
+   </LinearLayout>
+   <View android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/DIMEN_15PX"
+            android:layout_marginRight="@dimen/DIMEN_15PX"
+       android:layout_height="1dp"
+       android:background="@color/line"
+       android:layout_marginTop="@dimen/DIMEN_68PX"
+       android:layout_gravity="center_horizontal"/>
+   <Button 
+       android:id="@+id/pay3"
+           android:layout_width="match_parent"
+           android:layout_marginLeft="@dimen/DIMEN_15PX"
+            android:layout_marginRight="@dimen/DIMEN_15PX"
+          style="@style/location_height"
+           android:text="@string/alipay_recharge"
+           android:layout_marginTop="@dimen/DIMEN_270PX"
+           android:textColor="@android:color/white"
+           android:layout_gravity="center_horizontal"
+            android:background="@drawable/aipaly_recharge"
+           />
+
+</LinearLayout>

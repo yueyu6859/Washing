@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_daixi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:gravity="center_horizontal">
+   
+    <RelativeLayout 
+        android:background="#ffffff"
+        android:id="@+id/lL_daixikuang"
+        android:layout_width="@dimen/DIMEN_600PX"
+        android:layout_height="@dimen/DIMEN_570PX"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+       android:layout_alignParentBottom="true"
+     
+        >
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DIMEN_203PX"
+            android:orientation="horizontal"
+             android:layout_marginTop="@dimen/DIMEN_40PX"
+            android:gravity="center_horizontal"
+          >
+          
+            <ImageView 
+                android:id="@+id/images"
+                android:layout_width="@dimen/DIMEN_210PX"
+                android:layout_height="@dimen/DIMEN_204PX"
+                android:layout_marginLeft="@dimen/DIMEN_40PX"
+                android:background="@drawable/daixis"/>
+       <LinearLayout
+           android:paddingLeft="@dimen/DIMEN_18PX"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           >
+                <TextView 
+                    android:id="@+id/mnames"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="袋洗"
+                    android:textColor="@color/zi_yi"
+                    android:textSize="18sp"/>
+               <LinearLayout 
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:orientation="horizontal">
+                 <TextView 
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                    android:text="¥"
+                    android:textSize="@dimen/SIZE_39"
+                    android:textColor="@color/money"/>
+                 <TextView 
+                     android:id="@+id/tv_daixi_money"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                      android:textSize="@dimen/SIZE_39"
+                      android:textStyle="bold"
+                     android:textColor="@color/money" />
+                 <TextView 
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:textSize="@dimen/SIZE_18"
+                     android:textColor="@color/zi_yi"
+                     android:text="/袋"/>
+                </LinearLayout>
+                <TextView 
+                    android:id="@+id/description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/SIZE_13"
+                    android:textColor="@color/zi_er"
+                    android:paddingRight="5dp"
+                    android:text="描述"/>
+               
+                </LinearLayout>
+               
+                     
+        </LinearLayout>
+       <LinearLayout
+           android:layout_width="@dimen/DIMEN_358PX"
+           android:layout_height="@dimen/DIMEN_100PX"
+            android:layout_marginTop="@dimen/DIMEN_320PX"
+           android:layout_centerHorizontal="true"
+          >
+           <ImageButton
+               android:id="@+id/sub_btn"
+               android:layout_width="match_parent"
+               android:layout_weight="1"
+               android:layout_height="match_parent"
+               android:background="@drawable/selector_popujian"/>
+
+           <TextView
+               android:id="@+id/et"
+               android:layout_width="@dimen/DIMEN_158PX"
+               android:layout_height="match_parent"
+               android:background="@drawable/editext"
+               android:gravity="center_horizontal|center_vertical"
+               android:numeric="integer"
+               android:text="1"
+               android:clickable="false"
+               android:textColor="@color/money"
+               android:textSize="34sp" />
+
+             <ImageButton
+                 android:id="@+id/add_btn"
+                  android:layout_width="match_parent"
+                  android:layout_weight="1"
+               android:layout_height="match_parent"
+               android:background="@drawable/selector_jia"/>
+       </LinearLayout>
+        <Button 
+            android:id="@+id/btn_jiaru"
+            android:layout_width="@dimen/DIMEN_570PX"
+           style="@style/location_height"
+            android:text="加入洗衣篮"
+            android:textColor="#ffffff"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/DIMEN_24PX"
+            android:layout_centerHorizontal="true"
+            android:background="@color/main_color"/>
+    </RelativeLayout>
+  
+</RelativeLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\AndroidProject\xiyi1\app\src\main\assets"><file name="ShareSDK.xml" path="H:\AndroidProject\xiyi1\app\src\main\assets\ShareSDK.xml"/><file name="fonts/hanzhen.ttf" path="H:\AndroidProject\xiyi1\app\src\main\assets\fonts\hanzhen.ttf"/></source><source path="H:\AndroidProject\xiyi1\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="H:\AndroidProject\xiyi1\app\src\debug\assets"/></dataSet></merger>

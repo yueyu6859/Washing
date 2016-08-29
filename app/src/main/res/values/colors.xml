@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="tab_title_normal_color">#262726</color>
+    <color name="tab_title_pressed_color">#28ccfc</color>
+    <!-- 主要颜色 -->
+    <color name="main_color">#28ccfc</color>
+   <!-- 背景色 -->
+   <color  name="background">#f4f4f4</color>
+   <!--价格颜色  -->
+   <color name="money">#ff4d0f</color>
+   <!-- 线条颜色 ，边框颜色-->
+   <color name="line">#dddddd</color>
+   <!-- 字黑二号 -->
+   <color  name="zi_er">#585858</color>
+   <!-- 黑一号 -->
+   <color  name="zi_yi">#1e1e1e</color>
+   <!-- 白色 -->
+  <color name="white">#ffffff</color>
+  <!-- 支付里的浅橘 -->
+  <color name="qianju">#ff735c</color>
+  <!-- 支付里的深橘 -->
+   <color name="shenju">#ff5a3e</color>
+   <!-- 玫红-->
+   <color name="rose">#ff395d</color>
+   <!-- 绿色 -->
+    <color name="green">#91dd4b</color>
+    <color name="anhui">#bcbdc3</color>
+    <!-- 获取短信按钮颜色变换 -->
+    <drawable name="clr_normal">#bcbdc3</drawable>
+    <drawable name="clr_pressed">#28ccfc</drawable>
+    
+    
+    <color  name="hui">#bcbdc3</color>
+     <!-- 分享相关的颜色 -->
+    <color name="share_font">#333333</color>
+    <color name="share_divide">#d1d1d1</color>
+    <color name="share_back">#f7f7f7</color>
+</resources>

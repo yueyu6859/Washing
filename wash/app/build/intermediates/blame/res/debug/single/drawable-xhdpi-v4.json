@@ -1,0 +1,690 @@
+[
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor_9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor_9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_yaoyiyao.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_dropbox.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_dropbox.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_back_btn.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_close.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_close.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_bg.9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechat.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_divider.9.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatmoments.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_point.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\blue_point.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked_disabled.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor_9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor_9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_douban.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_douban.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_bluetooth.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qq.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked_disabled.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qq.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_back_btn.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth_checked.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechatmoments.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechat.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_shortmessage.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_shortmessage.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\light_blue_point.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\light_blue_point.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_bg.9.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_yaoyiyao.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor_9.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor_9.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_divider.9.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\light_blue_point.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\light_blue_point.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechat.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_bg.9.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_remove.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat_checked.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_douban.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_douban.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_shortmessage.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_shortmessage.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_close.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_close.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq_checked.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_bg.9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_bg.9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_point.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\blue_point.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat_checked.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_bluetooth.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qzone.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq_checked.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_bg.9.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_close.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_close.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechatmoments.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_bluetooth.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth_checked.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_bg.9.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_back_btn.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_back_9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\edittext_back_9.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_back_9.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\edittext_back_9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_divider.9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_ok_btn.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qq.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone_checked.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_shortmessage.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_shortmessage.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_point.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\blue_point.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatmoments.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_back_9.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\edittext_back_9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_bluetooth.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_bluetooth.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked_disabled.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qq.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_dropbox.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_dropbox.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatmoments.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_remove.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked_disabled.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_dropbox.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_dropbox.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qzone.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_douban.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_douban.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_dropbox.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_dropbox.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatmoments.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qzone.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor_9.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor_9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_remove.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechatmoments.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_divider.9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qzone.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_back_btn.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_point.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\blue_point.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_remove.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_bg.9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_ok_btn.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_ok_btn.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_yaoyiyao.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechat.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone_checked.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_ok_btn.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechatmoments.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq_checked.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_douban.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\logo_douban.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\light_blue_point.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\light_blue_point.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_close.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_close.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_back_9.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\edittext_back_9.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\light_blue_point.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\light_blue_point.png"
+    },
+    {
+        "merged": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_shortmessage.png",
+        "source": "H:\\Volumes\\陈跃宇\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\logo_shortmessage.png"
+    },
+    {
+        "merged": "F:\\MyWorkspace\\washing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_yaoyiyao.png",
+        "source": "F:\\MyWorkspace\\washing\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\xiyi1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin.png",
+        "source": "H:\\AndroidProject\\xiyi1\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    }
+]

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/background"
+    android:orientation="vertical">
+
+   <RelativeLayout 
+       android:layout_width="match_parent"
+           android:layout_height="@dimen/DIMEN_98PX"
+       >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_centerInParent="true"
+            android:background="@drawable/home_title"
+            android:layout_gravity="center_horizontal"
+             />
+
+   </RelativeLayout>
+
+
+  <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:background="@color/background">
+<com.yunlinker.xiyi.customview.guangGaoView
+    android:id="@+id/index_product_images_container"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/DIMEN_250PX"
+    android:background="@color/background"
+    />
+
+<LinearLayout 
+   android:layout_below="@id/index_product_images_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+   
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/DIMEN_170PX"
+       android:layout_marginTop="@dimen/DIMEN_20PX"
+       android:layout_marginLeft="@dimen/DIMEN_20PX"
+       android:layout_marginRight="@dimen/DIMEN_20PX"
+       android:layout_marginBottom="@dimen/DIMEN_20PX"
+    android:orientation="horizontal">
+   <ImageButton
+       android:id="@+id/ibn_jianxi"
+       android:layout_width="0dp"
+       android:layout_weight="1"
+       android:layout_height="match_parent"
+       android:background="@drawable/jianxi"
+       android:layout_marginRight="@dimen/DIMEN_10PX"
+       
+       />
+    <ImageButton
+        android:layout_marginLeft="@dimen/DIMEN_10PX"
+        android:id="@+id/ibn_daixi"
+       android:layout_width="0dp"
+       android:layout_weight="1"
+       android:layout_height="match_parent"
+       android:background="@drawable/daixi"
+      
+       
+ 
+      />
+    <!-- android:background="@drawable/daixi" -->
+    </LinearLayout>
+    <ImageButton
+        android:id="@+id/home_supplies"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+      
+        android:background="@drawable/home_articles"
+       style="@style/home_button_interval"
+        />
+    <!-- android:background="@drawable/home_articles" -->
+    <ImageButton
+        android:id="@+id/else_wash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+
+        android:background="@drawable/other_wash"
+        style="@style/home_button_interval"
+        />
+
+    <ImageButton
+        android:id="@+id/server1"
+        style="@style/home_button_interval"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+       android:background="@drawable/server_explain"
+        />
+
+    </LinearLayout>
+  
+    </LinearLayout>
+
+    </LinearLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    
+     >
+    
+   <RelativeLayout 
+      android:layout_width="match_parent"
+       android:layout_height="@dimen/DIMEN_98PX"
+      android:background="@color/white"
+      android:orientation="horizontal">
+    <ImageButton 
+        android:id="@+id/retun13"
+      android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="match_parent"
+          android:gravity="center_vertical"
+          android:layout_centerHorizontal="true"
+          android:textColor="@color/zi_yi"
+          android:text="@string/myaccount"
+          android:textSize="20sp" />
+
+  </RelativeLayout>
+  
+   <LinearLayout
+       android:id="@+id/my_xiyibi" 
+       android:layout_width="match_parent"
+       style="@style/location_height"
+       android:orientation="horizontal"
+       android:background="@color/white"
+       android:layout_marginTop="17dp"
+       android:gravity="center_vertical">
+       <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/zi_er"
+           android:textSize="18sp"
+           android:text="@string/myaccount1"
+           android:layout_marginLeft="8dp"/>
+       <ImageButton 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/front"
+           android:layout_marginLeft="@dimen/DIMEN_405PX"/>
+   </LinearLayout>
+   
+   
+    <LinearLayout 
+        android:id="@+id/my_xiyijuan"
+       android:layout_width="match_parent"
+       style="@style/location_height"
+       android:orientation="horizontal"
+       android:background="@color/white"
+       android:layout_marginTop="8dp"
+       android:gravity="center_vertical">
+       <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/zi_er"
+           android:textSize="18sp"
+           android:text="@string/myaccount2"
+           android:layout_marginLeft="8dp"/>
+       <ImageButton 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/front"
+           android:layout_marginLeft="@dimen/DIMEN_405PX"/>
+   </LinearLayout>
+    <Button 
+        android:id="@+id/exist"
+      android:layout_width="@dimen/DIMEN_600PX"
+      style="@style/location_height"
+      android:text="@string/xiyibi_password4"
+      android:textColor="@android:color/white"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginTop="@dimen/DIMEN_460PX"
+      android:background="@color/money"/>
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <!-- android:horizontalSpacing:两行之间的边距,android:verticalSpacing:两列之间的边距,
+    android:stretchMode="columnWidth":缩放与列宽大小同步,
+    android:columnWidth:每列的列宽，也就是item的宽度 -->
+    <GridView 
+        android:id="@+id/grid1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+       android:scrollbars="none" 
+       android:horizontalSpacing="@dimen/DIMEN_20PX"
+       android:verticalSpacing="@dimen/DIMEN_20PX"
+         android:columnWidth="@dimen/DIMEN_203PX"
+         android:layout_marginTop="@dimen/DIMEN_30PX"
+         android:layout_marginLeft="@dimen/DIMEN_15PX"
+         android:layout_marginRight="@dimen/DIMEN_15PX"
+       android:stretchMode="columnWidth"
+      />
+    
+</LinearLayout>

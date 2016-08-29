@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DIMEN_98PX"
+        android:background="#ffffff">
+         <ImageButton 
+             android:id="@+id/return2"
+       android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/xiyijuan_title"
+        android:textColor="@color/zi_yi"
+        android:textSize="20sp" 
+        android:layout_centerInParent="true"/>
+       
+  
+
+    </RelativeLayout>
+    
+    <ListView
+        android:dividerHeight="@dimen/DIMEN_18PX"
+        android:divider="@color/background"
+        android:padding="@dimen/DIMEN_23PX"
+        android:id="@+id/ima"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+    </ListView>
+    
+    <TextView 
+        android:id="@+id/text_xiyijuan"
+         android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="暂无洗衣劵!"
+        android:textColor="@color/zi_yi"
+        android:gravity="center_vertical|center_horizontal"/>
+
+</LinearLayout>

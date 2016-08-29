@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:id="@+id/homsupp"
+    android:background="@color/background">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DIMEN_113PX"
+        android:background="@android:color/white" >
+
+        <ImageButton
+            android:id="@+id/return17"
+            android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun" />
+      
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="家居用品"
+            android:textColor="@color/zi_yi"
+            android:textSize="20sp" />
+        
+        
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+     <GridView 
+        android:id="@+id/grid5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+       android:scrollbars="none" 
+       android:horizontalSpacing="@dimen/DIMEN_20PX"
+       android:verticalSpacing="@dimen/DIMEN_20PX"
+         android:columnWidth="@dimen/DIMEN_203PX"
+         android:layout_marginTop="@dimen/DIMEN_30PX"
+         android:layout_marginLeft="@dimen/DIMEN_15PX"
+         android:layout_marginRight="@dimen/DIMEN_15PX"
+       android:stretchMode="columnWidth"
+      />
+
+  <ImageButton
+      android:id="@+id/btn_basektv"
+       android:layout_width="@dimen/DIMEN_113PX"
+      android:layout_height="@dimen/DIMEN_113PX"
+      android:layout_alignLeft="@+id/grid5"
+      android:layout_alignParentBottom="true"
+      android:layout_marginBottom="@dimen/DIMEN_184PX"
+      android:background="@drawable/folat_basket_sel" />
+
+</RelativeLayout>
+</LinearLayout>

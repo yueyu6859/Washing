@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\MyWorkspace\washing\app\src\main\assets"><file name="fonts/hanzhen.ttf" path="F:\MyWorkspace\washing\app\src\main\assets\fonts\hanzhen.ttf"/><file name="ShareSDK.xml" path="F:\MyWorkspace\washing\app\src\main\assets\ShareSDK.xml"/></source><source path="F:\MyWorkspace\washing\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\MyWorkspace\washing\app\src\debug\assets"/></dataSet></merger>

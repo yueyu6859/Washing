@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="qy"> 
+       <item >请选择密码保护问题</item>  
+       <item >您母亲的姓名是？</item>
+       <item >您父亲的姓名是？  </item>
+       <item >您的学号是?</item>
+      </string-array> 
+</resources>

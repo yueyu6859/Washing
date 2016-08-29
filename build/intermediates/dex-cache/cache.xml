@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidLoad\AndroidSDK\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c77e5fd51e57eb1f95421f90f213f17de054db44.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\ShareSDK-Wechat-Core-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="026345fd0ea8105f21cd9688849f1301232eecf9">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.0_c2bda30c1fa0b51408decab6a8a4e47883e91a4e.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\ShareSDK-Wechat-Moments-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="58cc538afcaea68397481e5447836e62797551cc">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.0_c0c99994ebb54ea09cb8186e3f8bc866148a7f11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\gson-2.2.2_ebab29b4045f2a3632da7471eaec5b8deae7f782.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\ShareSDK-QQ-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e6c6b568ccacd915fbf96b9b73697fecb778d36e">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.0_5e025f4533ad24b0d0b1bed5803caf70908e6df7.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\ShareSDK-Core-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ce77708798f39a79b83785dd24dd551b4680e469">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.0_3762acd64cd2578b0928c119be93c374b720449b.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_18d4419ce1e469dcfdd4b1d9d3338aa5aae86f01.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\badgeview.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6301e7214e651730acacf9815ac3a56701231015">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\badgeview_708e842e41a325390646ef037c5cf929b5d8e718.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\ShareSDK-QZone-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="220b0f41eb09db85c24113a0f8d69cf1011b0e07">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.0_78f8f05579c3d46041cd3440e2dda0ac1f4c1d10.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\fastjson-1.1.36.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="63a6becf28f9a3facdc54a350c93fb1b85893ac5">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\fastjson-1.1.36_1fca620409f5fca55820c4a86322b1ea9d8eaed0.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b2cba35ceab382729de67845f613556d38a32133">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\MobTools_8955dae7e1a46eaa619584756dd9bdc1e3f9f4ea.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\ShareSDK-Wechat-2.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="af48a61a1270951dc870e1579a48a415ff10c1cc">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.0_9e7c1789945b7b5f1e77861eba0f346c614d487e.jar" />
+    </item>
+    <item
+        jar="H:\AndroidProject\xiyi1\app\libs\alipaySDK-20150602.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c880c895cf5ee3f7d055e566888cbf72bb3108fd">
+        <dex dex="H:\AndroidProject\xiyi1\app\build\intermediates\pre-dexed\debug\alipaySDK-20150602_68860809c55bf7d670027cca77198464b4a34f63.jar" />
+    </item>
+
+</items>

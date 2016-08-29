@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+    
+<RelativeLayout 
+    android:layout_width="match_parent"
+     android:layout_height="@dimen/DIMEN_113PX"
+    >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="意见反馈"
+        android:textColor="@color/zi_yi"
+        android:layout_centerInParent="true"
+         android:textSize="20sp"/>
+    <ImageButton 
+        android:id="@+id/return7"
+      android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+    
+</RelativeLayout>
+<RelativeLayout 
+    android:background="@color/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:orientation="vertical"
+        >
+       <EditText 
+           android:id="@+id/et_shuru"
+           android:layout_marginTop="@dimen/DIMEN_39PX"
+          android:background="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="@dimen/DIMEN_33PX"
+            android:layout_marginRight="@dimen/DIMEN_33PX"
+           android:layout_height="@dimen/DIMEN_480PX"
+           android:paddingLeft="@dimen/DIMEN_18PX"
+           android:paddingTop="@dimen/DIMEN_12PX"
+           android:hint="请输入你的宝贵意见..."
+           android:gravity="top"
+           android:layout_centerHorizontal="true"/>
+       <Button 
+           android:id="@+id/tijiao"
+           android:layout_marginTop="@dimen/DIMEN_36PX"
+           android:layout_below="@id/et_shuru"
+            android:layout_marginLeft="@dimen/DIMEN_33PX"
+            android:layout_marginRight="@dimen/DIMEN_33PX"
+          android:layout_width="match_parent"
+        style="@style/location_height"
+        android:text="提交"
+         android:background="@drawable/aipaly_recharge"
+        android:textColor="@android:color/white"
+       android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+    
+</LinearLayout>

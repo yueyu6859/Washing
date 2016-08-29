@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+    
+<!-- 地址 -->
+<RelativeLayout
+    android:layout_width="match_parent"
+   android:layout_height="@dimen/DIMEN_98PX"
+    android:background="@android:color/white"
+    >
+    <ImageButton 
+        android:id="@+id/return5"
+       android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+    <TextView 
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="用户信息"
+        android:textColor="@color/zi_yi"
+        android:textSize="20sp"
+        android:layout_centerInParent="true"/>
+    <Button 
+        android:id="@+id/modification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="修改"
+        android:textColor="@color/main_color"
+        android:background="@null"
+       android:layout_alignParentRight="true"
+       android:layout_centerInParent="true"
+       android:layout_marginRight="@dimen/DIMEN_34PX"
+       android:visibility="invisible"/>
+</RelativeLayout>
+
+
+<FrameLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+  <LinearLayout 
+     
+      android:id="@+id/nulls"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+     android:background="@color/background"
+      android:orientation="vertical"
+      >
+      <!-- 填写姓名 -->
+      <LinearLayout 
+          android:layout_marginTop="@dimen/DIMEN_40PX"
+          android:layout_width="match_parent"
+          android:layout_marginRight="@dimen/DIMEN_30PX"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_gravity="center_horizontal">
+          
+          <EditText 
+              android:drawableLeft="@drawable/icon_my_sel"
+              android:id="@+id/latn_name"
+              android:maxLength="4"
+              android:layout_gravity="center_vertical"
+              android:layout_width="@dimen/DIMEN_330PX"
+              style="@style/location_height"
+              
+              android:hint="请输入姓氏"
+              android:textSize="14sp"
+              android:paddingLeft="@dimen/DIMEN_6PX"
+              android:inputType="textPersonName"
+              android:background="#ffffff"/>
+          <Button 
+              android:id="@+id/man"
+              android:layout_width="@dimen/DIMEN_120PX"
+              android:layout_height="@dimen/DIMEN_77PX"
+              android:text="先生"
+              android:textColor="@color/white"
+               android:layout_gravity="center_vertical"
+              android:layout_marginLeft="@dimen/DIMEN_17PX"
+              android:background="@color/main_color"/>
+           <Button 
+               android:id="@+id/woman"
+              android:layout_width="@dimen/DIMEN_120PX"
+              android:layout_marginLeft="@dimen/DIMEN_12PX"
+              android:layout_height="@dimen/DIMEN_77PX"
+              android:layout_marginRight="@dimen/DIMEN_1PX"
+              android:text="女士"
+               android:layout_gravity="center_vertical"
+
+              android:background="@android:color/white"/>
+      </LinearLayout>
+
+     
+      <EditText 
+          android:maxLength="11"
+          android:id="@+id/phone"
+          android:drawableLeft="@drawable/phone1"
+          android:drawablePadding="7dp"
+          android:layout_marginTop="@dimen/DIMEN_40PX"
+          android:layout_width="match_parent"
+          android:layout_marginRight="@dimen/DIMEN_30PX"
+          style="@style/location_height"
+          android:textSize="14sp"
+          android:hint="请输入手机号"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+          android:paddingLeft="@dimen/DIMEN_20PX"
+          android:layout_gravity="center_horizontal"
+          android:inputType="phone"
+          android:background="@android:color/white"/>
+      <LinearLayout
+           android:layout_width="match_parent"
+            android:layout_marginRight="@dimen/DIMEN_30PX"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_gravity="center_horizontal"
+          android:layout_marginTop="@dimen/DIMEN_45PX">
+          <ImageView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:background="@drawable/location"/>
+          <TextView 
+              android:layout_width="wrap_content"
+              android:layout_height="match_parent"
+              android:text="收货地址"
+              android:textSize="16sp"
+              android:textColor="@color/zi_er"
+              android:gravity="bottom"/>
+      </LinearLayout> 
+      
+   
+        
+        <!-- 小区 -->
+      
+        <RelativeLayout 
+            android:id="@+id/housing"
+            android:layout_width="match_parent"
+             android:layout_marginRight="@dimen/DIMEN_30PX"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+             android:layout_marginTop="@dimen/DIMEN_20PX"
+             style="@style/location_height"
+             android:background="@color/white"
+             android:layout_gravity="center_horizontal"
+             >
+            <TextView 
+                android:paddingLeft="@dimen/DIMEN_18PX" 
+                 android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="区域"
+                android:textColor="@color/zi_yi"/>
+            
+            
+            <ImageView  
+                android:id="@+id/image_front"
+                android:layout_width="wrap_content"
+               android:layout_height="wrap_content" 
+               android:background="@drawable/front"
+               android:layout_alignParentRight="true"
+              android:layout_centerVertical="true"
+              android:layout_marginRight="@dimen/DIMEN_12PX"/>
+           <TextView   
+               android:id="@+id/have_housing"
+               android:visibility="gone"
+               android:layout_centerVertical="true"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" 
+             android:layout_marginLeft="@dimen/DIMEN_102PX"
+              android:textColor="@color/zi_yi"
+              />
+        </RelativeLayout>
+       
+        
+        
+        
+      
+     <!-- 单元地址 -->
+    <LinearLayout
+        android:id="@+id/unit_location"
+        android:layout_marginTop="@dimen/DIMEN_40PX"
+        android:layout_width="match_parent"
+         android:layout_marginRight="@dimen/DIMEN_30PX"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+         style="@style/location_height"
+         android:orientation="horizontal" 
+            android:gravity="center_vertical"
+         android:background="#ffffff"
+          android:layout_gravity="center_horizontal">
+        <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:gravity="center_vertical"
+           android:paddingLeft="@dimen/DIMEN_18PX"
+           android:textColor="@color/zi_yi"
+           android:text="详细地址"/>
+     <EditText 
+         android:id="@+id/mlocation"
+        android:layout_width="match_parent"
+        android:textSize="14sp"
+         android:layout_height="match_parent"
+      
+         android:paddingLeft="@dimen/DIMEN_18PX"
+        android:background="#ffffff"
+         />
+     
+     </LinearLayout>
+     
+    
+     <TextView 
+         android:layout_width="match_parent"
+          android:layout_marginRight="@dimen/DIMEN_30PX"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_marginTop="@dimen/DIMEN_18PX"
+         android:textColor="@color/zi_er"
+         android:text="请精准填写您所在的街道、小区、栋、单元、号"/>
+     <Button 
+         android:id="@+id/save_address_button"
+         android:layout_width="match_parent"
+          android:layout_marginRight="@dimen/DIMEN_30PX"
+          android:layout_marginLeft="@dimen/DIMEN_30PX"
+         style="@style/location_height"
+         android:layout_gravity="center_horizontal"
+         android:layout_marginTop="@dimen/DIMEN_113PX"
+         android:background="@color/main_color"
+         android:textColor="@color/white"
+         android:text="保存"/>
+  </LinearLayout>
+  
+  <LinearLayout
+      android:visibility="invisible"
+      android:id="@+id/exist"
+       android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:background="@color/background">
+      <LinearLayout 
+          android:layout_width="match_parent"
+        android:layout_height="@dimen/DIMEN_135PX"
+          android:orientation="horizontal"
+          android:background="@color/white"
+          android:layout_marginTop="@dimen/DIMEN_23PX"
+          android:gravity="center_vertical"
+          >
+          <ImageView 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/icon_my_sel"/>
+          <TextView 
+              android:id="@+id/exist_name"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="@dimen/DIMEN_12PX"
+              android:textColor="@color/zi_er"/>
+      </LinearLayout>
+      <View 
+         android:layout_width="@dimen/DIMEN_675PX"
+         android:layout_height="@dimen/DIMEN_2PX"
+         android:background="@drawable/lines"
+         android:layout_gravity="center_horizontal"/>
+      <LinearLayout 
+          android:layout_width="match_parent"
+          android:layout_height="@dimen/DIMEN_135PX"
+          android:orientation="horizontal"
+          android:background="@color/white"
+          android:gravity="center_vertical"
+          >
+          <ImageView 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/phone1"
+              android:layout_marginLeft="@dimen/DIMEN_16PX"/>
+          <TextView 
+              android:id="@+id/exist_phone"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="@dimen/DIMEN_16PX"
+              android:textColor="@color/zi_er"
+             />
+
+      </LinearLayout>
+
+      <View
+          android:layout_width="@dimen/DIMEN_675PX"
+          android:layout_height="1dp"
+          android:background="@drawable/lines"
+          android:layout_gravity="center_horizontal" 
+          />
+      <LinearLayout 
+          android:layout_width="match_parent"
+      android:layout_height="@dimen/DIMEN_135PX"
+          android:orientation="horizontal"
+          android:background="@color/white"
+          android:gravity="center_vertical"
+          >
+          <ImageView 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/location"
+              android:layout_marginLeft="@dimen/DIMEN_16PX"/>
+          <TextView 
+              android:id="@+id/exist_location"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+              android:textColor="@color/zi_er"
+             />
+
+  </LinearLayout>
+  </LinearLayout>
+  </FrameLayout>
+  
+
+
+  
+</LinearLayout>

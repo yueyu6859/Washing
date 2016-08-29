@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    >
+
+    
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="@dimen/DIMEN_630PX"
+        android:layout_height="@dimen/DIMEN_180PX"
+        android:layout_marginTop="@dimen/DIMEN_832PX"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/shape" >
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DIMEN_90PX"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/kefu1"
+            android:textSize="@dimen/SIZE_30" />
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignLeft="@+id/text1"
+            android:layout_below="@id/text1"
+            android:background="@color/line" />
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DIMEN_90PX"
+            android:layout_below="@+id/text1"
+            android:layout_marginTop="@dimen/DIMEN_12PX"
+            android:background="@android:color/transparent"
+            android:text="@string/kefu2"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/SIZE_30"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="@dimen/DIMEN_630PX"
+        android:layout_height="@dimen/DIMEN_90PX"
+        android:layout_marginTop="@dimen/DIMEN_23PX"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/rl"
+        android:background="@drawable/shape" >
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:text="@string/kefu3"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/SIZE_30" />
+    </RelativeLayout>
+
+</RelativeLayout>

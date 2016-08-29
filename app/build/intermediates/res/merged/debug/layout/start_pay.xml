@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/background">
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/DIMEN_113PX"
+    android:background="@android:color/white"
+    >
+    <ImageButton 
+        android:id="@+id/return5"
+       android:layout_width="@dimen/DIMEN_120PX"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/rentun"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="设置支付密码"
+        android:textColor="@color/zi_yi"
+        android:textSize="20sp"
+        android:layout_centerInParent="true"/>
+    
+</RelativeLayout>
+
+    
+<LinearLayout 
+    android:layout_marginTop="@dimen/DIMEN_25PX"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    >
+    <TextView 
+        android:layout_marginTop="@dimen/DIMEN_68PX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/zi_er"
+        android:layout_marginLeft="@dimen/DIMEN_45PX"
+        android:text="新密码"/>
+    
+    <!-- 密码框 -->
+    
+      <View
+           android:layout_marginTop="@dimen/DIMEN_45PX"
+        android:layout_width="@dimen/DIMEN_540PX"
+        android:layout_height="@dimen/DIMEN_3PX"
+        android:background="@color/line"
+        android:layout_gravity="center_horizontal" />
+    <LinearLayout 
+        android:gravity="center_horizontal"
+        android:layout_width="@dimen/DIMEN_540PX"
+        style="@style/location_height"
+         android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        >
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in1"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in2"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in3"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in4"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+       <EditText 
+        android:id="@+id/in5"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+        <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+      <EditText 
+        android:id="@+id/in6"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+       <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+    </LinearLayout>
+    <View android:layout_width="@dimen/DIMEN_540PX"
+        android:layout_height="1dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/line"/>
+    
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/zi_er"
+        android:layout_marginLeft="@dimen/DIMEN_45PX"
+        android:layout_marginTop="@dimen/DIMEN_12PX"
+        android:text="确认新密码"/>
+    
+    <!-- 再次输入的密码框 -->
+    
+      <View
+           android:layout_marginTop="@dimen/DIMEN_45PX"
+        android:layout_width="@dimen/DIMEN_540PX"
+        android:layout_height="@dimen/DIMEN_3PX"
+        android:background="@color/line"
+        android:layout_gravity="center_horizontal" />
+    <LinearLayout 
+        android:gravity="center_horizontal"
+        android:layout_width="@dimen/DIMEN_540PX"
+        style="@style/location_height"
+         android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        >
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in7"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in8"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in9"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+        <EditText 
+        android:id="@+id/in10"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+         <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+       <EditText 
+        android:id="@+id/in11"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+        <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+      <EditText 
+        android:id="@+id/in12"
+       android:layout_width="0dp"
+            android:layout_weight="1"
+               android:layout_height="match_parent"
+            android:maxLength="1"
+               android:inputType="number"
+                  android:password="true"
+                android:selectAllOnFocus="true"
+                android:gravity="center_horizontal|center_vertical"
+             android:background="@null"
+        />
+       <View android:layout_width="@dimen/DIMEN_3PX"
+        android:layout_height="match_parent"
+        android:background="@color/line"/>
+    </LinearLayout>
+    <View android:layout_width="@dimen/DIMEN_540PX"
+        android:layout_height="@dimen/DIMEN_3PX"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/line"/>
+    
+    
+    
+    <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@color/zi_er"
+    android:layout_marginTop="@dimen/DIMEN_40PX"
+    android:layout_marginLeft="@dimen/DIMEN_45PX"
+    android:text="密码保护问题"/>
+    
+    
+    <LinearLayout  
+        android:layout_width="@dimen/DIMEN_540PX"
+        style="@style/location_height"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="问题"
+            android:layout_gravity="center_vertical"
+            android:textSize="16sp"
+            android:textColor="@color/zi_yi"/>
+        <Spinner 
+            android:layout_marginLeft="5dp"
+            android:paddingLeft="5dp"
+            android:layout_width="match_parent"
+            style="@style/location_height"
+            android:textSize="16sp"
+            android:gravity="center_vertical"
+            android:background="@drawable/drop"
+             android:saveEnabled="true" 
+            android:id="@+id/pr"
+            />
+    </LinearLayout>
+    
+    
+    
+    <LinearLayout  
+        android:layout_width="@dimen/DIMEN_540PX"
+        style="@style/location_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="答案"
+            android:layout_gravity="center_vertical"
+            android:textSize="16sp"
+            android:textColor="@color/zi_yi"/>
+        <EditText 
+            android:id="@+id/answer"
+            android:layout_marginLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:textColor="@color/zi_er"
+            android:background="@drawable/kuangs"
+            android:hint="请输入答案"
+            />
+    </LinearLayout>
+    </LinearLayout>
+    
+
+
+<Button 
+    android:id="@+id/btn_pay_verify"
+            android:layout_marginTop="30dp"
+            android:layout_width="300dp"
+            style="@style/location_height"
+            android:text="确定"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/main_color"/>
+</LinearLayout>
